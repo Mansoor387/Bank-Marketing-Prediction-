@@ -22,5 +22,21 @@ We apply **classification models** and use **Explainable AI (XAI)** methods (SHA
 
 ---
 
-## 📂 Repository Structure
+## Results
+# F1 Score (positive class): ~0.85
+
+# ROC AUC: ~0.92
+
+# Example results stored in outputs/:
+
+- ✅ Confusion Matrices
+- ✅ ROC Curves
+- ✅ SHAP Summary & Bar Plots
+
+## 📌 Skills Gained
+
+- Classification modeling
+- Feature engineering
+- Explainable AI (XAI) techniques
+- Customer behavior analysis  
 
