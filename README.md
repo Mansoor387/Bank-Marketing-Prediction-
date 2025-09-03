@@ -1,2 +1,26 @@
-# Bank-Marketing-Prediction-
-This project predicts whether a customer will subscribe to a term deposit based on the UCI Bank Marketing Dataset.   It applies classification models and uses **Explainable AI (XAI)** techniques (SHAP &amp; LIME) to interpret results. 
+# 📊 Bank Marketing Term Deposit Prediction
+
+This project predicts whether a bank customer will subscribe to a **term deposit** as a result of a marketing campaign.  
+The dataset used is the [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing).  
+
+We apply **classification models** and use **Explainable AI (XAI)** methods (SHAP & LIME) to interpret model predictions.  
+
+---
+
+## 🚀 Features
+- Data preprocessing & categorical feature encoding  
+- Models trained:
+  - Logistic Regression
+  - Random Forest
+- Model evaluation using:
+  - Confusion Matrix
+  - F1-Score
+  - ROC Curve
+- Model Interpretability with:
+  - SHAP (global + local explanations)
+  - LIME (instance-level explanations)
+
+---
+
+## 📂 Repository Structure
+
