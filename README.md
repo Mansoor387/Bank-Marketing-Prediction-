@@ -23,11 +23,11 @@ We apply **classification models** and use **Explainable AI (XAI)** methods (SHA
 ---
 
 ## Results
-# F1 Score (positive class): ~0.85
+#### F1 Score (positive class): ~0.85
 
-# ROC AUC: ~0.92
+#### ROC AUC: ~0.92
 
-# Example results stored in outputs/:
+## Example results stored in outputs/:
 
 - ✅ Confusion Matrices
 - ✅ ROC Curves
